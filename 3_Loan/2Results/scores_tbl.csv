@@ -1,0 +1,6 @@
+,LogC,XGBC,XGBC-opt
+roc_auc,0.705,0.861,0.904
+f1,0.652,0.78,0.823
+balanced_accuracy,0.653,0.78,0.823
+precision,0.653,0.783,0.828
+recall,0.653,0.78,0.823
